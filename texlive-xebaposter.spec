@@ -3,7 +3,7 @@ Version:	63513
 Release:	2
 Summary:	Create beautiful scientific Persian/Latin posters using TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xebaposter
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xebaposter
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xebaposter.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xebaposter.doc.r%{version}.tar.xz
